@@ -31,7 +31,7 @@ GAME MECHANICS:
 - Each fruit eaten is 10 points.
 - At 100 points you will advance to level 2, screen will reset and obstacles will appear, you will be granted a bonus of 10 points
 - At 200 points you will advance to level 3, screen will reset again and an additional set of obstacles will appear, you will be granted a bonus of 50 points
-- Careful with the movement mechanics! Some prediction is needed. This was a design flaw which although not intentional adds an interesting flavor to gameplay.
+- Careful with the movement mechanics! Some prediction is needed. This was a design flaw which although not intentional adds an interesting and original flavor to gameplay.
 - The above leads to a secret technique with which you can move faster, in case you're the impatient type :)
 
 
